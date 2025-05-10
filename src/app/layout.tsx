@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Perfume Store",
-  description: "Perfume Store - Your one-stop shop for all things fragrance.",
+  description: "Perfume Store - Your one-stop shop for all things fragrance. Explore our wide range of perfumes and find your signature scent today.",
   icons: {  
     icon: "/favicon.ico" 
   },
