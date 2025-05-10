@@ -11,7 +11,7 @@ import {
   Sparkles,
   Heart,
 } from "lucide-react";
-import { createClient } from "../../supabase/server";
+import { createClient } from "../supabase/server";
 import Image from "next/image";
 import Link from "next/link";
 
