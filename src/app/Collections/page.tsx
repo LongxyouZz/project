@@ -16,7 +16,7 @@ const perfumes = [
     },
     {
       id: 2,
-      name: "Zee-y",
+      name: "dadadadad",
       brand: "Classy Perfume",
       price: 15,
       discountedPrice: 10,
