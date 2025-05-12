@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "Omorose Store",
   description: "Omorose Store - Your one-stop shop for all things fragrance. Explore our wide range of perfumes and find your signature scent today.",
   icons: {  
-    icon: "/favicon.ico" 
+    icon: "/omorose.ico" 
   },
 };
 
